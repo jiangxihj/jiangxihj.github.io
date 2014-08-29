@@ -4,9 +4,12 @@ layout: page
 comments: no
 ---
 
-浙江大学控制系机器人实验室博士生，研究方向：轨迹规划、机器学习
-业余时间喜欢研究android开发，网站前端技术等	
-爱摄影，爱骑行。  
+浙江大学控制系机器人实验室博士生，研究方向：轨迹规划、机器学习 
+
+业余时间喜欢研究android开发，网站前端技术等
+
+爱摄影，爱骑行，爱游泳
+
 知乎控
 
 ----
@@ -17,9 +20,6 @@ comments: no
 新浪微博: [24K纯帅_hj](http://weibo.com/hyperhujin)	 
 豆瓣：[24K纯帅](http://www.douban.com/people/66957866/)    
 github : [jiangxihj](https://github.com/jiangxihj)        
-知乎: [Carl Chen](http://www.zhihu.com/people/hujin)
+知乎: [jiangxihj](http://www.zhihu.com/people/hujin)
 
 ----
-
-
-[![新浪微博](http://service.t.sina.com.cn/widget/qmd/1713195262/f78fbcd2/1.png)](http://weibo.com/hyperhujin)
