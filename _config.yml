@@ -1,10 +1,9 @@
 baseurl: /
-markdown: kramdown
+markdown: Redcarpet
 permalink: /:year/:month/:day/:title/
 author: HyperHu
 pygments: true
 safe: true
 paginate: 16
 auto: true
-kramdown:
-  input: GFM
+
