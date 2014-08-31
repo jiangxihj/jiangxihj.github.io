@@ -7,5 +7,7 @@ tags: [jekyll, 安装]
 ---
 
 先挖个坑，有时间补上，两个重要网址：
-- [jekyll安装官方指导](http://jekyllrb.com/docs/installation/)
-- [先装RVM再安装ruby和rubygems](http://g2ex.blogspot.com/2013/12/Setup-Jekyll-Environment-on-Linux.html)
+
+
+* [jekyll安装官方指导](http://jekyllrb.com/docs/installation/)
+* [先装RVM再安装ruby和rubygems](http://g2ex.blogspot.com/2013/12/Setup-Jekyll-Environment-on-Linux.html)
