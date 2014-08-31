@@ -3,7 +3,7 @@ layout: post
 title: "Markdown排版文章实例"
 description: "从StackEdit网站中拷贝的文章，真的好漂亮"
 category: "Markdown"
-tags: [Markdown，排版]
+tags: [Markdown,排版]
 ---
 
 下文是从网站[StackEdit](https://stackedit.io)中copy的教学文档，基本上把Markdown所有的语法和特性都展示了出来，值得学习，所以贴在这里。
