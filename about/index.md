@@ -14,7 +14,7 @@ comments: no
 
 ----
 
-###联系方式：        
+### 联系方式：        
 
 个人邮箱: [hujin_boy@163.com](mailto:hujin_boy@163.com)  
 
@@ -25,4 +25,3 @@ comments: no
 github : [jiangxihj](https://github.com/jiangxihj)   
      
 知乎: [jiangxihj](http://www.zhihu.com/people/hujin)
-
